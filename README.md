@@ -24,6 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  
+<img src="https://cdn.jsdelivr.net/gh/nextui-org/nextui/assets/motion-icon.svg" width="40" title="Framer Motion" />
+
+<img src="https://cdn.jsdelivr.net/gh/pmndrs/zustand/assets/zustand-logo.svg" width="40" title="Zustand" />
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" />
@@ -34,12 +40,7 @@
 
 ### 🎯 Skills & Libraries I Work With
 
-- React ecosystem: `react-router-dom`, `react-bootstrap`, `react-icons`, `react-toastify`, `react-sweetalert2`, `react-shimmer-effects`, `react-hook-form`, `framer-motion`, `zustand`
-- Forms: `formik`, `yup`
-- HTTP & Auth: `axios`, `jwt-decode`
-- Charts: `recharts`
-- Animations & Effects: `typewriter-effect`, `swiper`, `react-draggable`
-- Utilities: `lodash`, `json-server`
+<p align="left"> <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/react_bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/react_icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/react_toastify-4CAF50?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/sweetalert2-FF5C5C?style=for-the-badge&logo=sweetalert2&logoColor=white" /> <img src="https://img.shields.io/badge/react_shimmer_Effects-8E44AD?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" /> <img src="https://img.shields.io/badge/formik-000000?style=for-the-badge&logo=formik&logoColor=white" /> <img src="https://img.shields.io/badge/yup-4B5563?style=for-the-badge&logo=yup&logoColor=white" /> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/jwt_decode-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/recharts-FF6384?style=for-the-badge&logo=recharts&logoColor=white" /> <img src="https://img.shields.io/badge/typewriter_effect-000000?style=for-the-badge&logo=typewriter&logoColor=white" /> <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" /> <img src="https://img.shields.io/badge/react_draggable-FFC300?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" /> <img src="https://img.shields.io/badge/json_server-000000?style=for-the-badge&logo=json&logoColor=white" /> </p>
 
 ---
 

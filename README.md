@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="typing.gif" width="400" style="min-width: 400px; max-width: 100%;" />
+  <img src="/typing.gif" width="400" style="min-width: 400px; max-width: 100%;" />
 </p>
 
 ---

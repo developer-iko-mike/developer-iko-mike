@@ -43,6 +43,12 @@
 
 ---
 
+<p align="center">
+  <img src="typing.gif" width="400" style="min-width: 400px; max-width: 100%;" />
+</p>
+
+---
+
 ### 🧠 Projects & Highlights
 
 - ✅ سایت مشابه **سبزلرن** با طراحی اختصاصی  
@@ -76,14 +82,6 @@
 ```
 
 </details>
-
----
-
-<p align="center">
-  <img src="typing.gif" width="400" />
-</p>
-
----
 
 ### 🖥 Stats & Activity
 

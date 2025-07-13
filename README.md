@@ -3,9 +3,9 @@
   Frontend developer focused on crafting clean UI & pixel-perfect code. Passionate about solving real problems with creative interfaces.
 </p>
 
-<p align="center">
-  <img src="/typing.gif" style="min-width: 400px; max-width: 100%;" />
-</p>
+<div align="center">
+  <img src="/typing.gif" width="400px" style="max-width: 100%;" />
+</div>
 
 ---
 

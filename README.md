@@ -3,6 +3,10 @@
   Frontend developer focused on crafting clean UI & pixel-perfect code. Passionate about solving real problems with creative interfaces.
 </p>
 
+<p align="center">
+  <img src="/typing.gif" style="min-width: 400px; max-width: 100%;" />
+</p>
+
 ---
 
 ### ✨ About Me
@@ -38,9 +42,7 @@
 
 <p align="left"> <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="React Router" /> <img src="https://img.shields.io/badge/react_bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="React Bootstrap" /> <img src="https://img.shields.io/badge/react_icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React Icons" /> <img src="https://img.shields.io/badge/react_toastify-4CAF50?style=for-the-badge&logo=react&logoColor=white" title="React Toastify" /> <img src="https://img.shields.io/badge/sweetalert2-FF5C5C?style=for-the-badge&logo=sweetalert2&logoColor=white" title="Sweet Alert2" /> <img src="https://img.shields.io/badge/react_shimmer_Effects-8E44AD?style=for-the-badge&logo=react&logoColor=white" title="React Shimmer Effects" /> <img src="https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" title="React Hook Form" /> <img src="https://img.shields.io/badge/formik-000000?style=for-the-badge&logo=formik&logoColor=white" title="Formik" /> <img src="https://img.shields.io/badge/yup-4B5563?style=for-the-badge&logo=yup&logoColor=white" title="Yup" /> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" title="Axios" /> <img src="https://img.shields.io/badge/jwt_decode-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT Decode" /> <img src="https://img.shields.io/badge/recharts-FF6384?style=for-the-badge&logo=recharts&logoColor=white" title="React Charts" /> <img src="https://img.shields.io/badge/typewriter_effect-000000?style=for-the-badge&logo=typewriter&logoColor=white" title="Typewriter Effect" /> <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" title="Swiper" /> <img src="https://img.shields.io/badge/react_draggable-FFC300?style=for-the-badge&logo=react&logoColor=black" title="React Draggable" /> <img src="https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" title="Lodash" /> <img src="https://img.shields.io/badge/json_server-000000?style=for-the-badge&logo=json&logoColor=white" title="Json Server" /> </p>
 
-<p align="center">
-  <img src="/typing.gif" style="min-width: 400px; max-width: 100%;" />
-</p>
+
 
 ---
 

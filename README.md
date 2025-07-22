@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="./typing.gif" width="390px" style="max-width: 100%;" />
+  <img src="/typing.gif" width="390px" style="max-width: 100%;" />
 </div>
 
 ---

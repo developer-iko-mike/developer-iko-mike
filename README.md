@@ -2,6 +2,7 @@
 <p align="center">
   Frontend developer focused on crafting clean UI & pixel-perfect code. Passionate about solving real problems with creative interfaces.
 </p>
+
 ---
 
 ### ✨ About Me

@@ -48,27 +48,25 @@
 
 ---
 
-### 🧠 Projects & Highlights
 <details>
-<summary>📂 مشاهده لیست کامل</summary>
+<summary><h3>🧠 Projects & Highlights</h3></summary>
 
 ```
-- ✅ سایت مشابه **سبزلرن** با طراحی اختصاصی  
-- ✅ چند **سایت شخصی حرفه‌ای و ریسپانسیو**  
-- ✅ سایت تک‌صفحه‌ای **مک‌دونالد**  
-- ✅ سایت شرکتی برای **اجاره مکان در طبیعت**  
-- ✅ طراحی دو **پنل ادمین داشبورد**  
-- ✅ سایت مشابه **واریاشاپ** برای فروش جم بازی  
-- ✅ طراحی سایت فروش **لوازم کامپیوتر**  
-- ✅ انتشار یک پکیج اختصاصی **SVG**
+- ✅ Custom-designed website similar to SabzLearn
+- ✅ Design of a small store using Next.js 15
+- ✅ Several professional and responsive personal websites
+- ✅ Single-page McDonald’s style website
+- ✅ Corporate website for nature location rentals
+- ✅ Design of two admin dashboard panels
+- ✅ E-commerce website similar to VariaShop for selling game gems
+- ✅ Website design for computer accessories sales
+- ✅ Launch of a custom SVG package
+
 ```
 </details>
----
-
-### 🛠 26 JavaScript Mini Projects
 
 <details>
-<summary>📂 مشاهده لیست کامل</summary>
+<summary><h3>🛠 26 JavaScript Mini Projects</h3></summary>
 
 ```
 
@@ -85,6 +83,8 @@
 ```
 
 </details>
+
+---
 
 ### 🖥 Stats & Activity
 

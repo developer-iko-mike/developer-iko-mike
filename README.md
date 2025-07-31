@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="/typing.gif" width="390px" style="max-width: 100%;" />
+  <img src="./type.gif" width="390px" style="max-width: 100%;" />
 </div>
 
 ---
@@ -14,6 +14,7 @@
 - 📍 Living in **Mashhad**, IR
 - 💬 Nickname: **Mohammad iKO** | **M’iKO**  
 - 🌍 English level: **Intermediate**  
+- 🎨 Basic skills in Adobe Photoshop for image editing and conversions
 - 🚀 Currently learning: **Next.js**
 - ☕ Fan of `Code with Coffee` ☕  
 - 📬 Email: [developer-iko-mike@gmail.com](mailto:developer-iko-mike@gmail.com)  
@@ -37,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" title="Axios" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" title="Adobe Photoshop" />
+
 </p>
 
 ---
@@ -50,7 +53,10 @@
 ---
 
 ### 🧠 Projects & Highlights
+<details>
+<summary>📂 مشاهده لیست کامل</summary>
 
+```
 - ✅ سایت مشابه **سبزلرن** با طراحی اختصاصی  
 - ✅ چند **سایت شخصی حرفه‌ای و ریسپانسیو**  
 - ✅ سایت تک‌صفحه‌ای **مک‌دونالد**  
@@ -59,7 +65,8 @@
 - ✅ سایت مشابه **واریاشاپ** برای فروش جم بازی  
 - ✅ طراحی سایت فروش **لوازم کامپیوتر**  
 - ✅ انتشار یک پکیج اختصاصی **SVG**
-
+```
+</details>
 ---
 
 ### 🛠 26 JavaScript Mini Projects

@@ -2,11 +2,6 @@
 <p align="center">
   Frontend developer focused on crafting clean UI & pixel-perfect code. Passionate about solving real problems with creative interfaces.
 </p>
-
-<div align="center">
-  <img src="./type.gif" width="390px" style="max-width: 100%;" />
-</div>
-
 ---
 
 ### ✨ About Me
@@ -96,6 +91,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=developer-iko-mike&show_icons=true&theme=radical" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-iko-mike&layout=compact&theme=radical" width="350" />
 </p>
+
+---
+
+<div align="center">
+  <img src="./type.gif" width="100%" style="max-width: 100%;" />
+</div>
 
 ---
 
